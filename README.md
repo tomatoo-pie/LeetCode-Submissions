@@ -12,6 +12,7 @@ A collection of LeetCode questions attempted and Solved
 | [0035-search-insert-position](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0540-single-element-in-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions attempted and Solved
 | [0035-search-insert-position](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0540-single-element-in-a-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
