@@ -11,13 +11,12 @@ public:
             for(int i = 0 ; i < nums.size(); i++){
                 sum += ceil(double(nums[i])/mid);
             }
-            if(low==high && high==mid)return mid;
             if(sum<=threshold)
-                high = mid;
+                high = mid-1;
             else 
                 low = mid+1;
         }
 
-        return mid;
+        return low;
     }
 };
