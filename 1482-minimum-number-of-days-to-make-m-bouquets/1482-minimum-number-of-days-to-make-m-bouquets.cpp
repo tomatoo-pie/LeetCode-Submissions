@@ -6,31 +6,30 @@ public:
         if(mk>n)return -1;
         vector<int> usable(n,0);
 
-        int count;
-        int ans;
         int low = *min_element(bloomDay.begin(),bloomDay.end());
         int high = *max_element(bloomDay.begin(),bloomDay.end());
         int mid;
 
+        int Boquet;
+        int flower;
+
         while(low<=high){
             mid = low + (high-low)/2;
-            for(int j = 0 ; j<n ; j++){
-                if(mid>=bloomDay[j])usable[j]=1;
-                else usable[j]=0;
-            }
-            count=0;
-            ans=0;
+            Boquet = 0;
+            flower = 0;
             for(int l = 0 ; l < n ; l++){
-                if(usable[l]>0){
-                    count++;
+                if(mid>=bloomDay[l]){
+                    flower++;
                 }
                 else{
-                    ans += count/k;
-                    count = 0;
+                    Boquet += flower/k;
+                    flower = 0;
                 }
             }
-            ans += count/k;
-            if(ans >= m)
+
+            Boquet += flower/k;
+
+            if(Boquet >= m)
                 high = mid - 1;
             else 
                 low = mid+1;
