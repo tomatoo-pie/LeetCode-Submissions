@@ -8,8 +8,8 @@ public:
         int j = 0 ;
         int ans;
         for(int i = 1 ; j != k ; i++){
-            if(mp.find(i)!=mp.end())continue;
-            else j++;
+            if(mp.find(i)==mp.end())j++;
+            else continue;
             if(j==k)ans = i;
         }
         return ans;
