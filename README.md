@@ -16,6 +16,7 @@ A collection of LeetCode questions attempted and Solved
 | [0162-find-peak-element](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0283-move-zeroes](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions attempted and Solved
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0283-move-zeroes) |
 ## String
 |  |
 | ------- |
