@@ -17,6 +17,7 @@ A collection of LeetCode questions attempted and Solved
 | [0136-single-number](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0283-move-zeroes) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions attempted and Solved
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Math
 |  |
@@ -79,6 +81,7 @@ A collection of LeetCode questions attempted and Solved
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
 |  |
@@ -88,4 +91,9 @@ A collection of LeetCode questions attempted and Solved
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
