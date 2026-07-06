@@ -19,6 +19,7 @@ A collection of LeetCode questions attempted and Solved
 | [0240-search-a-2d-matrix-ii](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0875-koko-eating-bananas](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -71,4 +72,12 @@ A collection of LeetCode questions attempted and Solved
 |  |
 | ------- |
 | [0136-single-number](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0136-single-number) |
+## Hash Table
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0560-subarray-sum-equals-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
