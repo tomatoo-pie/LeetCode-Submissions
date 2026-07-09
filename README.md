@@ -67,6 +67,7 @@ A collection of LeetCode questions attempted and Solved
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0151-reverse-words-in-a-string) |
+| [1903-largest-odd-number-in-string](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1903-largest-odd-number-in-string) |
 ## Matrix
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions attempted and Solved
 | ------- |
 | [0048-rotate-image](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0189-rotate-array) |
+| [1903-largest-odd-number-in-string](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1903-largest-odd-number-in-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -121,4 +123,8 @@ A collection of LeetCode questions attempted and Solved
 | ------- |
 | [0054-spiral-matrix](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/2149-rearrange-array-elements-by-sign) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
