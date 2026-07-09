@@ -70,6 +70,7 @@ A collection of LeetCode questions attempted and Solved
 | [0014-longest-common-prefix](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0205-isomorphic-strings) |
+| [0796-rotate-string](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0796-rotate-string) |
 | [1903-largest-odd-number-in-string](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1903-largest-odd-number-in-string) |
 ## Matrix
 |  |
@@ -135,4 +136,8 @@ A collection of LeetCode questions attempted and Solved
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
