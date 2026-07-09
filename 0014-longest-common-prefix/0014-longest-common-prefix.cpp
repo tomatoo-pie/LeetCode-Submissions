@@ -5,7 +5,7 @@ public:
         for(int i = 0 ; i < strs.size() ; i++){
             int j = 0;
             while(j<s.size() && j<strs[i].size() && strs[i][j]==s[j]) j++;
-                s.resize(j);
+                s.erase(s.begin()+j,s.end());
         }
         return s;
     }
