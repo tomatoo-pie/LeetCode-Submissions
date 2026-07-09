@@ -69,6 +69,7 @@ A collection of LeetCode questions attempted and Solved
 | ------- |
 | [0014-longest-common-prefix](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0205-isomorphic-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1903-largest-odd-number-in-string) |
 ## Matrix
 |  |
@@ -101,6 +102,7 @@ A collection of LeetCode questions attempted and Solved
 | [0001-two-sum](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0205-isomorphic-strings) |
 | [0560-subarray-sum-equals-k](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
 |  |
