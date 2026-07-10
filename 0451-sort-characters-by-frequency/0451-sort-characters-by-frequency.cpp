@@ -6,19 +6,15 @@ public:
             mp[s[i]]++;
         }
 
-        vector<pair<int,char>> st;
-        for(auto &x : mp){
-            st.push_back({x.second,x.first});
+        vector<vector<char>> bucket(s.length()+1);
+        for(auto &i : mp){
+            bucket[i.second].push_back(i.first);
         }
 
-        sort(st.begin(),st.end());
         string ans = "";
-        
-        for(int it = st.size()-1;it >= 0 ;it--){
-            int count = st[it].first;
-            while(count>0){
-                ans += st[it].second;
-                count--;
+        for(int i = s.length() ; i>0 ; i--){
+            for(char c : bucket[i]){
+                ans += string(i, c);
             }
         }
         return ans;
