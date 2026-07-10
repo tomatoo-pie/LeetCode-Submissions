@@ -6,16 +6,19 @@ public:
             mp[s[i]]++;
         }
 
-        set<pair<int,char>> st;
+        vector<pair<int,char>> st;
         for(auto &x : mp){
-            st.insert({x.second,x.first});
+            st.push_back({x.second,x.first});
         }
+
+        sort(st.begin(),st.end());
         string ans = "";
         
-        for(auto it = st.rbegin();it!=st.rend();it++){
-            while(mp[it->second]>0){
-                ans += it->second;
-                mp[it->second]--;
+        for(int it = st.size()-1;it >= 0 ;it--){
+            int count = st[it].first;
+            while(count>0){
+                ans += st[it].second;
+                count--;
             }
         }
         return ans;
