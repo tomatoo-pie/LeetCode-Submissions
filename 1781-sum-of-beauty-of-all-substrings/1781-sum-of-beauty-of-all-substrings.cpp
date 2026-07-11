@@ -1,31 +1,31 @@
 class Solution {
 public:
-    int beauty(string& s,int left,int right){
-        vector<int> freq(26,0);
-        for(int i = left ; i <= right ; i++){
-            freq[s[i]-'a']++;
-        }
-
-        int maxfreq = 0;
-        int minfreq = INT_MAX;
-
-        for (int i = 0; i < 26; i++) {
-            if (freq[i] > 0) {
-                maxfreq = max(maxfreq, freq[i]);
-                minfreq = min(minfreq, freq[i]);
-            }
-        }
-
-        return maxfreq - minfreq ;
-    }
-
     int beautySum(string s) {
-        int count =0;
-        for(int i = 0; i < s.size() ; i++){
-            for(int j = i ; j < s.size() ; j++){
-                count += beauty(s,i,j);
+        int n = s.size();
+        int ans = 0;
+
+        for (int i = 0; i < n; i++) {
+
+            vector<int> freq(26, 0);
+
+            for (int j = i; j < n; j++) {
+
+                freq[s[j] - 'a']++;
+
+                int maxFreq = 0;
+                int minFreq = INT_MAX;
+
+                for (int k = 0; k < 26; k++) {
+                    if (freq[k] > 0) {
+                        maxFreq = max(maxFreq, freq[k]);
+                        minFreq = min(minFreq, freq[k]);
+                    }
+                }
+
+                ans += (maxFreq - minFreq);
             }
         }
-        return count;
+
+        return ans;
     }
 };
