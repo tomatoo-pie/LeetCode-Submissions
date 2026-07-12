@@ -100,6 +100,7 @@ A collection of LeetCode questions attempted and Solved
 | ------- |
 | [0013-roman-to-integer](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0189-rotate-array) |
 | [1903-largest-odd-number-in-string](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1903-largest-odd-number-in-string) |
 ## Bit Manipulation
@@ -170,4 +171,8 @@ A collection of LeetCode questions attempted and Solved
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
