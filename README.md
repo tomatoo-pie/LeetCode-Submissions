@@ -103,6 +103,7 @@ A collection of LeetCode questions attempted and Solved
 | [0050-powx-n](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0189-rotate-array) |
 | [1903-largest-odd-number-in-string](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1903-largest-odd-number-in-string) |
+| [1922-count-good-numbers](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1922-count-good-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -175,4 +176,5 @@ A collection of LeetCode questions attempted and Solved
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0050-powx-n) |
+| [1922-count-good-numbers](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1922-count-good-numbers) |
 <!---LeetCode Topics End-->
