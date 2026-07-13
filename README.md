@@ -80,6 +80,7 @@ A collection of LeetCode questions attempted and Solved
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1903-largest-odd-number-in-string) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Matrix
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions attempted and Solved
 |  |
 | ------- |
 | [0136-single-number](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0136-single-number) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Hash Table
 |  |
 | ------- |
@@ -177,4 +179,8 @@ A collection of LeetCode questions attempted and Solved
 | ------- |
 | [0050-powx-n](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0050-powx-n) |
 | [1922-count-good-numbers](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1922-count-good-numbers) |
+## Backtracking
+|  |
+| ------- |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 <!---LeetCode Topics End-->
