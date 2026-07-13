@@ -2,9 +2,8 @@ class Solution {
 public:
     vector<int> returnindex(string s,vector<int>& nums){
         vector<int> v;
-        reverse(s.begin(),s.end());
         for(int i = 0 ; i < s.size() ; i++){
-            if(s[i]=='1')v.push_back(nums[i]);
+            if(s[s.size()-1-i]=='1')v.push_back(nums[i]);
         }
         return v;
     }
