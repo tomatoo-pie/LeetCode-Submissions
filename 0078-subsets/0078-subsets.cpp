@@ -1,34 +1,22 @@
 class Solution {
 public:
-    vector<int> returnindex(string s,vector<int>& nums){
-        vector<int> v;
-        for(int i = 0 ; i < s.size() ; i++){
-            if(s[s.size()-1-i]=='1')v.push_back(nums[i]);
+    void solve(int i, vector<int> & nums,vector<int> &temp,vector<vector<int>> &ans){
+        if(i==nums.size()){
+            ans.push_back(temp);
+            return;
         }
-        return v;
-    }
 
-    void addOne(string &s) {
-    int i = s.size() - 1;
+        solve(i+1,nums,temp,ans);
 
-        while (i >= 0) {
-            if (s[i] == '0') {
-                s[i] = '1';
-                return;
-            }
-
-            s[i] = '0';
-            i--;
-        }
+        temp.push_back(nums[i]);
+        solve(i+1,nums,temp,ans);
+        temp.pop_back();
     }
     
     vector<vector<int>> subsets(vector<int>& nums) {
         vector<vector<int>> subset;
-        string s = string(nums.size(),'0');
-        for(int i = 0 ; i < (1<<nums.size()) ; i++){
-            subset.push_back(returnindex(s,nums));
-            addOne(s);
-        }
+        vector<int> ans;
+        solve(0,nums,ans,subset);
         return subset;
     }
 };
