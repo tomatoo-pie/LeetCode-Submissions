@@ -1,6 +1,8 @@
 class Solution {
 public:
     void check(int idx,int n,vector<int> &pair,vector<vector<int>> &ans,int k){
+        if (n < 0)return;
+
         if(pair.size()==k){
             if(n==0)ans.push_back(pair);
             return;
