@@ -1,40 +1,31 @@
 class Solution {
 public:
-    void check(int idx, int target, vector<int>& candidates,
-               vector<int>& ans, vector<vector<int>>& res) {
+    void check(int index,int sum,vector<int> &nums,vector<int> &ans,vector<vector<int>> &v,int target){
+        if(sum == target){
+        v.push_back(ans);
+        return;
+    }
 
-        if (target == 0) {
-            res.push_back(ans);
-            return;
-        }
+    if(sum > target)
+        return;
+        
 
-        for (int i = idx; i < candidates.size(); i++) {
-
-            // Skip duplicates
-            if (i > idx && candidates[i] == candidates[i - 1])
+        for(int i=index;i<nums.size();i++){
+            if(i>index && nums[i]==nums[i-1])
                 continue;
 
-            // Since array is sorted, no need to continue further
-            if (candidates[i] > target)
-                break;
-
-            ans.push_back(candidates[i]);
-
-            check(i + 1, target - candidates[i], candidates, ans, res);
-
+            ans.push_back(nums[i]);
+            check(i+1,sum+nums[i],nums,ans,v,target);
             ans.pop_back();
         }
     }
 
-    vector<vector<int>> combinationSum2(vector<int>& candidates, int target) {
+    vector<vector<int>> combinationSum2(vector<int>& nums, int target) {
 
-        sort(candidates.begin(), candidates.end());
-
-        vector<vector<int>> res;
+        vector<vector<int>> v;
         vector<int> ans;
-
-        check(0, target, candidates, ans, res);
-
-        return res;
+        sort(nums.begin(),nums.end());
+        check(0,0,nums,ans,v,target);
+        return v;
     }
 };
