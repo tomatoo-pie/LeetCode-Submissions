@@ -6,30 +6,16 @@ public:
             return;
         }
 
-        int digit = digits[idx] - '0';
-
-        for(int i = 0 ; i < stringtable[digit].length() ; i++){
-            ans.push_back(stringtable[digit][i]);
+        for(int i = 0 ; i < stringtable[digits[idx]-'0'].length() ; i++){
+            ans.push_back(stringtable[digits[idx]-'0'][i]);
             check(idx+1,digits,stringtable,ans,output);
             ans.pop_back();
         }
     }
+    
     vector<string> letterCombinations(string digits) {
-
         if (digits.empty()) return {};
-
-        vector<string> stringtable = {
-            "",
-            "",
-            "abc",
-            "def",
-            "ghi",
-            "jkl",
-            "mno",
-            "pqrs",
-            "tuv",
-            "wxyz"
-        };
+        vector<string> stringtable = {"","","abc","def","ghi","jkl","mno","pqrs","tuv","wxyz"};
         vector<string> output;
         check(0,digits,stringtable,"",output);
         return output;
