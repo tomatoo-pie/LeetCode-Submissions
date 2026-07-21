@@ -42,6 +42,7 @@ A collection of LeetCode questions attempted and Solved
 | [0493-reverse-pairs](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0621-task-scheduler) |
 | [0875-koko-eating-bananas](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions attempted and Solved
 | [0242-valid-anagram](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0621-task-scheduler) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Prefix Sum
 |  |
@@ -159,12 +161,14 @@ A collection of LeetCode questions attempted and Solved
 | [0229-majority-element-ii](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0621-task-scheduler) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0621-task-scheduler) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Dynamic Programming
 |  |
@@ -184,6 +188,7 @@ A collection of LeetCode questions attempted and Solved
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0410-split-array-largest-sum) |
+| [0621-task-scheduler](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0621-task-scheduler) |
 | [1903-largest-odd-number-in-string](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
 |  |
@@ -198,6 +203,7 @@ A collection of LeetCode questions attempted and Solved
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0023-merge-k-sorted-lists) |
 | [0451-sort-characters-by-frequency](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0621-task-scheduler) |
 ## Bucket Sort
 |  |
 | ------- |
