@@ -217,6 +217,7 @@ A collection of LeetCode questions attempted and Solved
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Recursion
 |  |
@@ -259,14 +260,17 @@ A collection of LeetCode questions attempted and Solved
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
