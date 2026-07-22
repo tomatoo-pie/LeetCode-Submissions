@@ -215,6 +215,7 @@ A collection of LeetCode questions attempted and Solved
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Recursion
 |  |
@@ -252,4 +253,16 @@ A collection of LeetCode questions attempted and Solved
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0023-merge-k-sorted-lists) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
