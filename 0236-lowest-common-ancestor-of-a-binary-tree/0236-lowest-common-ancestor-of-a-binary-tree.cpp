@@ -9,32 +9,13 @@
  */
 class Solution {
 public:
-    void findpath(TreeNode* root, TreeNode* node,vector<TreeNode*> &path,vector<TreeNode*> & ans){
-        if(root==nullptr) return;
-
-        ans.push_back(root);
-        if(root == node){
-            path = ans;
-            return;
-        }
-        else{
-            findpath(root->left,node,path,ans);
-            findpath(root->right,node,path,ans);
-        }
-
-        ans.pop_back();
-    }
-
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
-        vector<TreeNode*> ppath, qpath, pans, qans;
-        findpath(root,p,ppath,pans);
-        findpath(root,q,qpath,qans);
-        TreeNode* lca;
-        for(int i = 0 ; i < min(qpath.size(),ppath.size()); i++){
-            if(ppath[i]==qpath[i])lca = ppath[i];
-            else break;
-        }
-        return lca;
+        if(root==nullptr || root == p || root == q) return root;
 
+        TreeNode* left = lowestCommonAncestor(root->left,p,q);
+        TreeNode* right = lowestCommonAncestor(root->right,p,q);
+        if(left == nullptr) return right;
+        else if(right == nullptr) return left;
+        else return root;
     }
 };
