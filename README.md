@@ -48,6 +48,7 @@ A collection of LeetCode questions attempted and Solved
 | [0877-stone-game](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0877-stone-game) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1406-stone-game-iii](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1406-stone-game-iii) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1901-find-a-peak-element-ii) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions attempted and Solved
 | [0050-powx-n](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0189-rotate-array) |
 | [0877-stone-game](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1406-stone-game-iii) |
 | [1903-largest-odd-number-in-string](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1922-count-good-numbers) |
 ## Bit Manipulation
@@ -190,6 +192,7 @@ A collection of LeetCode questions attempted and Solved
 | [0152-maximum-product-subarray](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0410-split-array-largest-sum) |
 | [0877-stone-game](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1406-stone-game-iii) |
 ## Simulation
 |  |
 | ------- |
@@ -338,4 +341,5 @@ A collection of LeetCode questions attempted and Solved
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
