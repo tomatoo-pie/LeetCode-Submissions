@@ -98,6 +98,7 @@ A collection of LeetCode questions attempted and Solved
 | [0151-reverse-words-in-a-string](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0242-valid-anagram) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0451-sort-characters-by-frequency](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0796-rotate-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions attempted and Solved
 | [0199-binary-tree-right-side-view](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0700-search-in-a-binary-search-tree) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions attempted and Solved
 | [0145-binary-tree-postorder-traversal](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -334,6 +337,7 @@ A collection of LeetCode questions attempted and Solved
 | [0199-binary-tree-right-side-view](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0700-search-in-a-binary-search-tree) |
@@ -349,6 +353,7 @@ A collection of LeetCode questions attempted and Solved
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0199-binary-tree-right-side-view) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -362,4 +367,8 @@ A collection of LeetCode questions attempted and Solved
 | ------- |
 | [0877-stone-game](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1406-stone-game-iii) |
+## Design
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 <!---LeetCode Topics End-->
