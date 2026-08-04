@@ -1,25 +1,14 @@
 class Solution {
 public:
-    void preorder(TreeNode* root, vector<TreeNode*>& pre) {
-        if (!root) return;
-
-        pre.push_back(root);
-        preorder(root->left, pre);
-        preorder(root->right, pre);
-    }
-
+    TreeNode* NR = nullptr;
     void flatten(TreeNode* root) {
         if (!root) return;
+        
+        flatten(root->right);
+        flatten(root->left);
 
-        vector<TreeNode*> pre;
-        preorder(root, pre);
-
-        for (int i = 0; i < pre.size() - 1; i++) {
-            pre[i]->left = nullptr;
-            pre[i]->right = pre[i + 1];
-        }
-
-        pre.back()->left = nullptr;
-        pre.back()->right = nullptr;
+        root->right = NR;
+        root->left = nullptr;
+        NR = root;
     }
 };
