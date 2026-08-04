@@ -24,17 +24,15 @@ public:
         vector<TreeNode*> pre;
         preorder(root,pre);
         
-        TreeNode* head = pre[0];
-        head->left = nullptr;
-        head->right = nullptr;
-        TreeNode* temp = head;
+        root = pre[0];
+        root->left = nullptr;
+        root->right = nullptr;
+        TreeNode* temp = root;
         for(int i = 0 ; i < pre.size()-1 ; i++){
             temp->right = pre[i+1];
             temp = temp->right;
             temp->left = nullptr;
             temp->right = nullptr;
         }
-
-        root = head;
     }
 };
