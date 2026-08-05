@@ -328,6 +328,7 @@ A collection of LeetCode questions attempted and Solved
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [3310-remove-methods-from-project](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -370,6 +371,7 @@ A collection of LeetCode questions attempted and Solved
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [3310-remove-methods-from-project](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/3310-remove-methods-from-project) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -385,4 +387,8 @@ A collection of LeetCode questions attempted and Solved
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
