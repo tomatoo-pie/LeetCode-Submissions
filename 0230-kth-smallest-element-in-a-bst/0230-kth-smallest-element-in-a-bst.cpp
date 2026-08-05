@@ -11,19 +11,33 @@
  */
 class Solution {
 public:
-    void find(TreeNode* root,int key,int count,vector<int> &res){
-        if(root==nullptr || count == key){
-            return;
-        }
-
-        find(root->left,key,count,res);
-        res.push_back(root->val);
-        count++;
-        find(root->right,key,count,res);
-    }
     int kthSmallest(TreeNode* root, int k) {
-        vector<int> res;
-        find(root,k,0,res);
-        return res[k-1];
+        TreeNode* curr = root;
+        int count = 0;
+        int ans;
+        while(curr!=nullptr){
+            if(curr->left == nullptr){
+                count++;
+                if(count==k) ans = curr->val;
+                curr = curr->right;
+            }else{
+                TreeNode* prev = curr->left;
+                while(prev->right && prev->right != curr){
+                    prev = prev->right;
+                }
+
+                if(prev->right != curr){
+                    prev->right = curr;
+                    curr = curr->left;
+                }
+                else{
+                    prev->right = nullptr;
+                    count++;
+                    if(count==k) ans = curr->val;
+                    curr = curr->right;
+                }
+            }
+        }
+        return ans;
     }
 };
