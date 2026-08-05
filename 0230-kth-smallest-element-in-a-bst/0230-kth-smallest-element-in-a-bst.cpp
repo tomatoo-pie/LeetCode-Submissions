@@ -11,33 +11,20 @@
  */
 class Solution {
 public:
-    int kthSmallest(TreeNode* root, int k) {
-        TreeNode* curr = root;
-        int count = 0;
-        int ans;
-        while(curr!=nullptr){
-            if(curr->left == nullptr){
-                count++;
-                if(count==k) ans = curr->val;
-                curr = curr->right;
-            }else{
-                TreeNode* prev = curr->left;
-                while(prev->right && prev->right != curr){
-                    prev = prev->right;
-                }
-
-                if(prev->right != curr){
-                    prev->right = curr;
-                    curr = curr->left;
-                }
-                else{
-                    prev->right = nullptr;
-                    count++;
-                    if(count==k) ans = curr->val;
-                    curr = curr->right;
-                }
-            }
+    void find(TreeNode* root,int key,int& count,int& res){
+        if(root==nullptr || count == key){
+            return;
         }
-        return ans;
+
+        find(root->left,key,count,res);
+        count++;
+        if(count == key) res = root->val;
+        find(root->right,key,count,res);
+    }
+    int kthSmallest(TreeNode* root, int k) {
+        int res = 0;
+        int count = 0;
+        find(root,k,count,res);
+        return res;
     }
 };
