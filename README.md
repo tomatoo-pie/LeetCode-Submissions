@@ -137,6 +137,7 @@ A collection of LeetCode questions attempted and Solved
 | [1406-stone-game-iii](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1406-stone-game-iii) |
 | [1903-largest-odd-number-in-string](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1922-count-good-numbers) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -420,4 +421,8 @@ A collection of LeetCode questions attempted and Solved
 |  |
 | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
