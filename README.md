@@ -90,6 +90,7 @@ A collection of LeetCode questions attempted and Solved
 | [0283-move-zeroes](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0283-move-zeroes) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## String
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions attempted and Solved
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1903-largest-odd-number-in-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Matrix
 |  |
@@ -211,6 +213,7 @@ A collection of LeetCode questions attempted and Solved
 | [0410-split-array-largest-sum](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0410-split-array-largest-sum) |
 | [0877-stone-game](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1406-stone-game-iii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Simulation
 |  |
 | ------- |
@@ -223,6 +226,7 @@ A collection of LeetCode questions attempted and Solved
 | [0621-task-scheduler](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0846-hand-of-straights) |
 | [1903-largest-odd-number-in-string](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1903-largest-odd-number-in-string) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Trie
 |  |
