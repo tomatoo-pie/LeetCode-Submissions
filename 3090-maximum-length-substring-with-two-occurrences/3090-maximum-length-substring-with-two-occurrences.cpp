@@ -3,12 +3,12 @@ public:
     int maximumLengthSubstring(string s) {
         int j = 0;
         int maxlen = 0;
-        unordered_map<char,int> mp;
+        vector<int> mp(26,0);
         for(int i  = 0 ; i < s.size();i++){
-            mp[s[i]]++;
+            mp[s[i]-'a']++;
             
-            while(mp[s[i]]>2){
-                mp[s[j]]--;
+            while(mp[s[i]-'a']>2){
+                mp[s[j]-'a']--;
                 j++;
             }
 
