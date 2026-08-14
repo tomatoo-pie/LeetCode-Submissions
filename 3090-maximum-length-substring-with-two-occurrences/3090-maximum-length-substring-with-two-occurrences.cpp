@@ -3,12 +3,12 @@ public:
     int maximumLengthSubstring(string s) {
         int j = 0;
         int maxlen = 0;
-        vector<int> mp(26,0);
+        vector<int> freq(26,0);
         for(int i  = 0 ; i < s.size();i++){
-            mp[s[i]-'a']++;
+            freq[s[i]-'a']++;
             
-            while(mp[s[i]-'a']>2){
-                mp[s[j]-'a']--;
+            while(freq[s[i]-'a']>2){
+                freq[s[j]-'a']--;
                 j++;
             }
 
