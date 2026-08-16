@@ -59,6 +59,7 @@ A collection of LeetCode questions attempted and Solved
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1901-find-a-peak-element-ii) |
+| [2029-stone-game-ix](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/2029-stone-game-ix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions attempted and Solved
 | [1510-stone-game-iv](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1510-stone-game-iv) |
 | [1903-largest-odd-number-in-string](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1922-count-good-numbers) |
+| [2029-stone-game-ix](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Bit Manipulation
@@ -224,6 +226,7 @@ A collection of LeetCode questions attempted and Solved
 | [0451-sort-characters-by-frequency](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0621-task-scheduler) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2029-stone-game-ix](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/2029-stone-game-ix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -256,6 +259,7 @@ A collection of LeetCode questions attempted and Solved
 | [0621-task-scheduler](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0846-hand-of-straights) |
 | [1903-largest-odd-number-in-string](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1903-largest-odd-number-in-string) |
+| [2029-stone-game-ix](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Trie
@@ -457,6 +461,7 @@ A collection of LeetCode questions attempted and Solved
 | [1140-stone-game-ii](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/2029-stone-game-ix) |
 ## Design
 |  |
 | ------- |
@@ -496,12 +501,14 @@ A collection of LeetCode questions attempted and Solved
 | [0486-predict-the-winner](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/2029-stone-game-ix) |
 ## Memoization
 |  |
 | ------- |
@@ -511,6 +518,7 @@ A collection of LeetCode questions attempted and Solved
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
