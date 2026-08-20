@@ -5,32 +5,31 @@ public:
         int m = image[0].size();
 
         int original = image[sr][sc];
-        if(color == original) return image;
 
-        vector<vector<int>> vis(n,vector<int> (m,-1));
+        if(original == color)
+            return image;
 
         queue<pair<int,int>> q;
-        
-        q.push({sr,sc});
+        q.push({sr, sc});
         image[sr][sc] = color;
-        vis[sr][sc] = color;
 
-        int drow[] = {-1,0,1,0};
-        int dcol[] = {0,1,0,-1};
-        while(!q.empty()){
-            int r = q.front().first;
-            int c = q.front().second;
+        int drow[] = {-1, 0, 1, 0};
+        int dcol[] = {0, 1, 0, -1};
+
+        while(!q.empty()) {
+            auto [r, c] = q.front();
             q.pop();
 
-            for(int i = 0;i<4;i++){
-                int nrow = r + drow[i];
-                int ncol = c + dcol[i];
+            for(int i = 0; i < 4; i++) {
+                int nr = r + drow[i];
+                int nc = c + dcol[i];
 
-                bool condition = (nrow>=0 && ncol>=0 && ncol<m && nrow<n && vis[nrow][ncol]!=color && image[nrow][ncol] == original);
-                if(condition){
-                    q.push({nrow,ncol});
-                    vis[nrow][ncol] = color;
-                    image[nrow][ncol] = color;
+                if(nr >= 0 && nr < n &&
+                   nc >= 0 && nc < m &&
+                   image[nr][nc] == original) {
+
+                    image[nr][nc] = color;
+                    q.push({nr, nc});
                 }
             }
         }
