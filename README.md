@@ -560,4 +560,8 @@ A collection of LeetCode questions attempted and Solved
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
