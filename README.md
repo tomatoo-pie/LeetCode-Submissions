@@ -68,6 +68,7 @@ A collection of LeetCode questions attempted and Solved
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/3731-find-missing-elements) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions attempted and Solved
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1901-find-a-peak-element-ii) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Two Pointers
 |  |
 | ------- |
@@ -167,6 +169,7 @@ A collection of LeetCode questions attempted and Solved
 | [1903-largest-odd-number-in-string](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1922-count-good-numbers) |
 | [2029-stone-game-ix](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/2029-stone-game-ix) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Bit Manipulation
@@ -176,6 +179,7 @@ A collection of LeetCode questions attempted and Solved
 | [0090-subsets-ii](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0222-count-complete-tree-nodes) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Hash Table
@@ -512,6 +516,7 @@ A collection of LeetCode questions attempted and Solved
 ## Number Theory
 |  |
 | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Minimax
 |  |
@@ -551,4 +556,8 @@ A collection of LeetCode questions attempted and Solved
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0547-number-of-provinces) |
+## Combinatorics
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 <!---LeetCode Topics End-->
