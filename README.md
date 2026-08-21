@@ -563,5 +563,6 @@ A collection of LeetCode questions attempted and Solved
 ## Database
 |  |
 | ------- |
+| [0584-find-customer-referee](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0584-find-customer-referee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
