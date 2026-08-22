@@ -46,6 +46,7 @@ A collection of LeetCode questions attempted and Solved
 | [0486-predict-the-winner](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0621-task-scheduler) |
 | [0733-flood-fill](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0733-flood-fill) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions attempted and Solved
 | [0073-set-matrix-zeroes](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0542-01-matrix](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0994-rotting-oranges) |
 | [1901-find-a-peak-element-ii](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1901-find-a-peak-element-ii) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions attempted and Solved
 | [0410-split-array-largest-sum](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0509-fibonacci-number) |
+| [0542-01-matrix](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0542-01-matrix) |
 | [0877-stone-game](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1406-stone-game-iii) |
@@ -455,6 +458,7 @@ A collection of LeetCode questions attempted and Solved
 | [0199-binary-tree-right-side-view](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0207-course-schedule) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0542-01-matrix](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0662-maximum-width-of-binary-tree) |
