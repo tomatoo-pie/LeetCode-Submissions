@@ -3,13 +3,11 @@ public:
     void solve(vector<vector<char>>& board) {
         int n = board.size();
         int m = board[0].size();
-
-        vector<vector<int>> vis(n,vector<int> (m,0));
         queue<pair<int,int>> q;
         for(int i = 0 ; i < n; i++){
             for(int j = 0 ; j < m ; j++){
                 if(board[i][j] == 'O' && (i == n-1 || i == 0 || j==m-1 || j == 0 )) {
-                    vis[i][j] = 1;
+                    board[i][j] = 'R';
                     q.push({i,j});
                 }
             }
@@ -27,8 +25,8 @@ public:
             for(int i = 0; i < 4 ; i++){
                 int nrow = row + drow[i];
                 int ncol = col + dcol[i];
-                if(nrow>=0 && ncol>=0 && ncol<m && nrow<n && board[nrow][ncol]=='O' && vis[nrow][ncol] == 0){
-                    vis[nrow][ncol] = 1;
+                if(nrow>=0 && ncol>=0 && ncol<m && nrow<n && board[nrow][ncol]=='O'){
+                    board[nrow][ncol] = 'R';
                     q.push({nrow,ncol});
                 }
             }
@@ -36,7 +34,8 @@ public:
 
         for(int i = 0 ; i < n ; i++){
             for(int j = 0 ; j < m; j++){
-                if(vis[i][j] == 0 && board[i][j] != 'X') board[i][j] = 'X';
+                if(board[i][j] != 'R') board[i][j] = 'X';
+                else board[i][j] = 'O';
             }
         }
     }
