@@ -13,19 +13,19 @@ public:
                     count++;
                     q.push({i,j});
                     grid[i][j] = '0';
-                }
 
-                while(!q.empty()){
-                    int row = q.front().first;
-                    int col = q.front().second;
-                    q.pop();
+                    while(!q.empty()){
+                        int row = q.front().first;
+                        int col = q.front().second;
+                        q.pop();
 
-                    for(int k = 0 ; k < 4 ; k++){
-                        int nrow = row + drow[k];
-                        int ncol = col + dcol[k];
-                        if(nrow<n && ncol<m && nrow>=0 && ncol>=0 && grid[nrow][ncol]!='0'){
-                            q.push({nrow,ncol});
-                            grid[nrow][ncol] = '0';
+                        for(int k = 0 ; k < 4 ; k++){
+                            int nrow = row + drow[k];
+                            int ncol = col + dcol[k];
+                            if(nrow<n && ncol<m && nrow>=0 && ncol>=0 && grid[nrow][ncol]!='0'){
+                                q.push({nrow,ncol});
+                                grid[nrow][ncol] = '0';
+                            }
                         }
                     }
                 }
