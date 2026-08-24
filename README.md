@@ -17,6 +17,7 @@ A collection of LeetCode questions attempted and Solved
 | [0039-combination-sum](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0056-merge-intervals) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions attempted and Solved
 | [0013-roman-to-integer](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0242-valid-anagram) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions attempted and Solved
 | [0003-longest-substring-without-repeating-characters](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -232,6 +235,7 @@ A collection of LeetCode questions attempted and Solved
 |  |
 | ------- |
 | [0018-4sum](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0169-majority-element) |
