@@ -2,9 +2,7 @@ from collections import deque
 
 class Solution:
     def ladderLength(self, beginWord: str, endWord: str, wordList: List[str]) -> int:
-        st = set() 
-        for i in range(len(wordList)):
-            st.add(wordList[i])
+        st = set(wordList) 
         
         q = deque()
         q.append((beginWord,1))
