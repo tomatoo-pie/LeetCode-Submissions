@@ -123,6 +123,7 @@ A collection of LeetCode questions attempted and Solved
 | [0014-longest-common-prefix](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0049-group-anagrams) |
+| [0126-word-ladder-ii](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0205-isomorphic-strings) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions attempted and Solved
 | [0073-set-matrix-zeroes](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0126-word-ladder-ii](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0127-word-ladder) |
 | [0169-majority-element](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0205-isomorphic-strings) |
@@ -348,6 +350,7 @@ A collection of LeetCode questions attempted and Solved
 | [0040-combination-sum-ii](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0090-subsets-ii) |
+| [0126-word-ladder-ii](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0126-word-ladder-ii) |
 | [0216-combination-sum-iii](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0216-combination-sum-iii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -481,6 +484,7 @@ A collection of LeetCode questions attempted and Solved
 | [0102-binary-tree-level-order-traversal](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0126-word-ladder-ii](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0199-binary-tree-right-side-view) |
@@ -634,5 +638,6 @@ A collection of LeetCode questions attempted and Solved
 ## Bidirectional Search
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
