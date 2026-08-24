@@ -1,9 +1,9 @@
 class Solution {
 public:
     int ladderLength(string beginWord, string endWord, vector<string>& wordList) {
-        unordered_map<string,int> mp;
+        unordered_set<string> mp;
         for(int i = 0 ; i < wordList.size();i++){
-            mp[wordList[i]] = 0;
+            mp.insert(wordList[i]);
         }
 
         char a = 'a';
@@ -21,9 +21,9 @@ public:
                 for(int j = 0; j < 26;j++){
                     char og =word[i];
                     word[i] = char(a + j);
-                    if(mp.find(word) != mp.end() && mp[word] < 1){
+                    if(mp.find(word) != mp.end()){
                         q.push({word,level+1});
-                        mp[word]++;
+                        mp.erase(word);
                     }
                     word[i] = og;
                 }
