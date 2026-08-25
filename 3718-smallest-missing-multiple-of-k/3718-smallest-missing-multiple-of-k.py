@@ -8,5 +8,3 @@ class Solution:
 
             else:
                 return k*i
-
-        return 0
