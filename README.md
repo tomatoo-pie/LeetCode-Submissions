@@ -138,6 +138,7 @@ A collection of LeetCode questions attempted and Solved
 | [0014-longest-common-prefix](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0049-group-anagrams) |
+| [0115-distinct-subsequences](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0151-reverse-words-in-a-string) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions attempted and Solved
 | [0005-longest-palindromic-substring](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0124-binary-tree-maximum-path-sum) |
