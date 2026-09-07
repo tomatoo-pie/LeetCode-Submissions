@@ -147,6 +147,7 @@ A collection of LeetCode questions attempted and Solved
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0451-sort-characters-by-frequency](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0796-rotate-string) |
+| [0940-distinct-subsequences-ii](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0940-distinct-subsequences-ii) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1903-largest-odd-number-in-string) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions attempted and Solved
 | [0509-fibonacci-number](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0542-01-matrix) |
 | [0877-stone-game](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1510-stone-game-iv) |
