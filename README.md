@@ -714,4 +714,12 @@ A collection of LeetCode questions attempted and Solved
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0785-is-graph-bipartite) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
