@@ -453,6 +453,7 @@ A collection of LeetCode questions attempted and Solved
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
 |  |
@@ -484,6 +485,7 @@ A collection of LeetCode questions attempted and Solved
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1020-number-of-enclaves) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3310-remove-methods-from-project](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
@@ -519,6 +521,7 @@ A collection of LeetCode questions attempted and Solved
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
 |  |
