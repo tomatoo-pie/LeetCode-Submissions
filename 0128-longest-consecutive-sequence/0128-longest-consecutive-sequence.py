@@ -9,14 +9,13 @@ class Solution:
         for i in st:
             if i-1 in st:
                 continue
-            if i-1 not in st:
-                current = i
-                lenth = 1
-                while(current + 1 in st):
-                    current += 1
-                    lenth += 1
+            current = i
+            lenth = 1
+            while(current + 1 in st):
+                current += 1
+                lenth += 1
                 
-                if maxlen < lenth:
-                    maxlen = lenth
+            if maxlen < lenth:
+                maxlen = lenth
 
         return maxlen
