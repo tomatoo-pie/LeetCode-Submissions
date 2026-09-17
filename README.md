@@ -71,6 +71,7 @@ A collection of LeetCode questions attempted and Solved
 | [1140-stone-game-ii](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1140-stone-game-ii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1406-stone-game-iii](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1406-stone-game-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1539-kth-missing-positive-number) |
 | [1563-stone-game-v](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1563-stone-game-v) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions attempted and Solved
 | [0875-koko-eating-bananas](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1901-find-a-peak-element-ii) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions attempted and Solved
 | [0846-hand-of-straights](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0846-hand-of-straights) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -338,6 +341,7 @@ A collection of LeetCode questions attempted and Solved
 | [0940-distinct-subsequences-ii](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1406-stone-game-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1872-stone-game-viii) |
@@ -670,6 +674,7 @@ A collection of LeetCode questions attempted and Solved
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
