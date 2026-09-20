@@ -171,6 +171,7 @@ A collection of LeetCode questions attempted and Solved
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/3498-reverse-degree-of-a-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Matrix
@@ -358,6 +359,7 @@ A collection of LeetCode questions attempted and Solved
 | [0054-spiral-matrix](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
 |  |
 | ------- |
