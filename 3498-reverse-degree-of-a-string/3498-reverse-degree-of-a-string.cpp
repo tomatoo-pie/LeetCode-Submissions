@@ -3,8 +3,7 @@ public:
     int reverseDegree(string s) {
         int sum = 0;
         for(int i = 0; i < s.length();i++){
-            int product = -(((s[i]-'a') - 26) * (i+1));
-            sum += product;
+            sum += abs(((s[i]-'a') - 26) * (i+1));
         }
         return sum;
     }
