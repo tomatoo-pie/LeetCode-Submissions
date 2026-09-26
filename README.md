@@ -796,4 +796,5 @@ A collection of LeetCode questions attempted and Solved
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
