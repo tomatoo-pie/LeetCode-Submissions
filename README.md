@@ -167,6 +167,7 @@ A collection of LeetCode questions attempted and Solved
 | [0451-sort-characters-by-frequency](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0940-distinct-subsequences-ii) |
+| [1021-remove-outermost-parentheses](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -423,6 +424,7 @@ A collection of LeetCode questions attempted and Solved
 | [0145-binary-tree-postorder-traversal](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0173-binary-search-tree-iterator) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1021-remove-outermost-parentheses](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1096-brace-expansion-ii) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Recursion
@@ -790,4 +792,8 @@ A collection of LeetCode questions attempted and Solved
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0069-sqrtx) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
