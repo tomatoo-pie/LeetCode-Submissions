@@ -157,6 +157,7 @@ A collection of LeetCode questions attempted and Solved
 | [0013-roman-to-integer](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0049-group-anagrams) |
 | [0115-distinct-subsequences](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0126-word-ladder-ii) |
@@ -422,6 +423,7 @@ A collection of LeetCode questions attempted and Solved
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0144-binary-tree-preorder-traversal) |
@@ -800,6 +802,7 @@ A collection of LeetCode questions attempted and Solved
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
