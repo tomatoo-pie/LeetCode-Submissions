@@ -159,6 +159,7 @@ A collection of LeetCode questions attempted and Solved
 | [0017-letter-combinations-of-a-phone-number](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0049-group-anagrams) |
 | [0115-distinct-subsequences](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0126-word-ladder-ii) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions attempted and Solved
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0115-distinct-subsequences) |
@@ -426,6 +428,7 @@ A collection of LeetCode questions attempted and Solved
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0144-binary-tree-preorder-traversal) |
@@ -807,6 +810,7 @@ A collection of LeetCode questions attempted and Solved
 | ------- |
 | [0020-valid-parentheses](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0032-longest-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
