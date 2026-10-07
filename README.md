@@ -171,6 +171,7 @@ A collection of LeetCode questions attempted and Solved
 | [0451-sort-characters-by-frequency](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0796-rotate-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1096-brace-expansion-ii) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions attempted and Solved
 | [0621-task-scheduler](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0678-valid-parenthesis-string) |
 | [0846-hand-of-straights](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0846-hand-of-straights) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1927-sum-game) |
@@ -438,6 +440,7 @@ A collection of LeetCode questions attempted and Solved
 | [0145-binary-tree-postorder-traversal](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0173-binary-search-tree-iterator) |
 | [0678-valid-parenthesis-string](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1096-brace-expansion-ii) |
@@ -816,6 +819,7 @@ A collection of LeetCode questions attempted and Solved
 | [0022-generate-parentheses](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
