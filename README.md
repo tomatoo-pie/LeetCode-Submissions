@@ -168,6 +168,7 @@ A collection of LeetCode questions attempted and Solved
 | [0205-isomorphic-strings](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0301-remove-invalid-parentheses) |
 | [0451-sort-characters-by-frequency](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0796-rotate-string) |
@@ -465,6 +466,7 @@ A collection of LeetCode questions attempted and Solved
 | [0090-subsets-ii](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0090-subsets-ii) |
 | [0126-word-ladder-ii](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0126-word-ladder-ii) |
 | [0216-combination-sum-iii](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0216-combination-sum-iii) |
+| [0301-remove-invalid-parentheses](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1096-brace-expansion-ii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -612,6 +614,7 @@ A collection of LeetCode questions attempted and Solved
 | [0207-course-schedule](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0210-course-schedule-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0301-remove-invalid-parentheses) |
 | [0542-01-matrix](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
