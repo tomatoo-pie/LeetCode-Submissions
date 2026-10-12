@@ -86,6 +86,7 @@ A collection of LeetCode questions attempted and Solved
 | [2149-rearrange-array-elements-by-sign](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions attempted and Solved
 | [0090-subsets-ii](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0222-count-complete-tree-nodes) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions attempted and Solved
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -409,6 +412,7 @@ A collection of LeetCode questions attempted and Solved
 | [2029-stone-game-ix](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
