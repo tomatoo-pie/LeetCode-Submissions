@@ -11,20 +11,22 @@
  */
 class Solution {
 public:
-    void find(TreeNode* root,int key,int& count,int& res){
-        if(root==nullptr || count == key){
-            return;
-        }
+    void inorder(TreeNode* root,vector<int> &arr){
+        if(root == nullptr) return;
 
-        find(root->left,key,count,res);
-        count++;
-        if(count == key) res = root->val;
-        find(root->right,key,count,res);
+        inorder(root->left,arr);
+        arr.push_back(root->val);
+        inorder(root->right,arr);
     }
+
     int kthSmallest(TreeNode* root, int k) {
-        int res = 0;
-        int count = 0;
-        find(root,k,count,res);
-        return res;
+        vector<int> arr;
+
+        inorder(root,arr);
+        int val = 0;
+        for(int i = 0; i < k;i++){
+            val = arr[i];
+        }
+        return val;
     }
 };
