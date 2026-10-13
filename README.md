@@ -144,6 +144,7 @@ A collection of LeetCode questions attempted and Solved
 | [0031-next-permutation](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0283-move-zeroes) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions attempted and Solved
 | [0126-word-ladder-ii](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0128-longest-consecutive-sequence) |
+| [0160-intersection-of-two-linked-lists](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0229-majority-element-ii) |
@@ -513,6 +515,7 @@ A collection of LeetCode questions attempted and Solved
 | [0019-remove-nth-node-from-end-of-list](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0023-merge-k-sorted-lists) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0328-odd-even-linked-list) |
