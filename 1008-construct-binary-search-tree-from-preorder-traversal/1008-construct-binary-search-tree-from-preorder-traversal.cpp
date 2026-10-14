@@ -11,11 +11,11 @@
  */
 class Solution {
 public:
-    TreeNode* build(vector<int> &A,int &i,int bound){
-        if(i == A.size() || A[i] > bound) return nullptr;
-        TreeNode* root = new TreeNode(A[i++]);
-        root->left = build(A,i,root->val);
-        root->right = build(A,i,bound);
+    TreeNode* build(vector<int>& arr,int &i, int bound){
+        if(i==arr.size() || arr[i]>bound) return nullptr;
+        TreeNode* root = new TreeNode(arr[i++]);
+        root->left = build(arr,i,root->val);
+        root->right = build(arr,i,bound);
         return root;
     }
 
