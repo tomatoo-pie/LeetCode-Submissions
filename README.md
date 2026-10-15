@@ -87,6 +87,7 @@ A collection of LeetCode questions attempted and Solved
 | [2213-longest-substring-of-one-repeating-character](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions attempted and Solved
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -499,11 +501,13 @@ A collection of LeetCode questions attempted and Solved
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0493-reverse-pairs) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Segment Tree
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0493-reverse-pairs) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Merge Sort
 |  |
 | ------- |
