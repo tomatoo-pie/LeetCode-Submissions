@@ -76,6 +76,7 @@ A collection of LeetCode questions attempted and Solved
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1539-kth-missing-positive-number) |
 | [1563-stone-game-v](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions attempted and Solved
 | [0240-search-a-2d-matrix-ii](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0493-reverse-pairs) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Math
 |  |
 | ------- |
@@ -254,6 +256,7 @@ A collection of LeetCode questions attempted and Solved
 | [1406-stone-game-iii](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1872-stone-game-viii](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1872-stone-game-viii) |
 | [1903-largest-odd-number-in-string](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1922-count-good-numbers) |
@@ -404,6 +407,7 @@ A collection of LeetCode questions attempted and Solved
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1872-stone-game-viii](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1872-stone-game-viii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -572,6 +576,7 @@ A collection of LeetCode questions attempted and Solved
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
@@ -641,6 +646,7 @@ A collection of LeetCode questions attempted and Solved
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
@@ -686,6 +692,7 @@ A collection of LeetCode questions attempted and Solved
 | [0700-search-in-a-binary-search-tree](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Game Theory
 |  |
 | ------- |
@@ -760,6 +767,7 @@ A collection of LeetCode questions attempted and Solved
 | ------- |
 | [0070-climbing-stairs](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0509-fibonacci-number) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Nim Game
 |  |
 | ------- |
@@ -787,10 +795,12 @@ A collection of LeetCode questions attempted and Solved
 | [0547-number-of-provinces](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1020-number-of-enclaves) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Combinatorics
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Database
 |  |
@@ -882,4 +892,8 @@ A collection of LeetCode questions attempted and Solved
 | ------- |
 | [0141-linked-list-cycle](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0142-linked-list-cycle-ii) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
