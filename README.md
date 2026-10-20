@@ -108,6 +108,7 @@ A collection of LeetCode questions attempted and Solved
 | [3731-find-missing-elements](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/3904-smallest-stable-index-ii) |
 ## Binary Search
@@ -272,6 +273,7 @@ A collection of LeetCode questions attempted and Solved
 | [3871-count-commas-in-range-ii](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/3886-sum-of-sortable-integers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -369,6 +371,7 @@ A collection of LeetCode questions attempted and Solved
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/3731-find-missing-elements) |
+| [3886-sum-of-sortable-integers](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/3886-sum-of-sortable-integers) |
 ## Counting
 |  |
 | ------- |
@@ -737,6 +740,7 @@ A collection of LeetCode questions attempted and Solved
 | [3483-unique-3-digit-even-numbers](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [3886-sum-of-sortable-integers](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/3886-sum-of-sortable-integers) |
 ## Iterator
 |  |
 | ------- |
