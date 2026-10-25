@@ -70,6 +70,7 @@ A collection of LeetCode questions attempted and Solved
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1020-number-of-enclaves](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1020-number-of-enclaves) |
 | [1140-stone-game-ii](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1140-stone-game-ii) |
+| [1254-number-of-closed-islands](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1254-number-of-closed-islands) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1406-stone-game-iii](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions attempted and Solved
 | [0835-image-overlap](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1254-number-of-closed-islands) |
 | [1901-find-a-peak-element-ii](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1901-find-a-peak-element-ii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -622,6 +624,7 @@ A collection of LeetCode questions attempted and Solved
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3310-remove-methods-from-project](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/3310-remove-methods-from-project) |
@@ -689,6 +692,7 @@ A collection of LeetCode questions attempted and Solved
 | [0994-rotting-oranges](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1020-number-of-enclaves) |
 | [1096-brace-expansion-ii](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1254-number-of-closed-islands) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3310-remove-methods-from-project](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -808,6 +812,7 @@ A collection of LeetCode questions attempted and Solved
 | [0547-number-of-provinces](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Combinatorics
