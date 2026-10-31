@@ -105,6 +105,7 @@ A collection of LeetCode questions attempted and Solved
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3665-twisted-mirror-path-count](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/3665-twisted-mirror-path-count) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions attempted and Solved
 | [1901-find-a-peak-element-ii](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/1901-find-a-peak-element-ii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3665-twisted-mirror-path-count](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Divide and Conquer
 |  |
@@ -431,6 +433,7 @@ A collection of LeetCode questions attempted and Solved
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3524-find-x-value-of-array-i](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/3524-find-x-value-of-array-i) |
+| [3665-twisted-mirror-path-count](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Simulation
 |  |
