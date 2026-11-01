@@ -52,6 +52,7 @@ A collection of LeetCode questions attempted and Solved
 | [0283-move-zeroes](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0410-split-array-largest-sum) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0493-reverse-pairs) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions attempted and Solved
 | [0069-sqrtx](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0189-rotate-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0836-rectangle-overlap) |
