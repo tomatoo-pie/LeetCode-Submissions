@@ -53,6 +53,7 @@ A collection of LeetCode questions attempted and Solved
 | [0347-top-k-frequent-elements](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0410-split-array-largest-sum) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0493-reverse-pairs) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions attempted and Solved
 | [0070-climbing-stairs](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0189-rotate-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0836-rectangle-overlap) |
@@ -377,6 +379,7 @@ A collection of LeetCode questions attempted and Solved
 | [0242-valid-anagram](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0451-sort-characters-by-frequency) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0621-task-scheduler](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0846-hand-of-straights) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/tomatoo-pie/LeetCode-Submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
